@@ -71,7 +71,7 @@ function Sidebar() {
               alignItems: "center",
             }}
           >
-            <img src="" alt="logo" />
+            <img src="./images/logo.png" alt="logo" />
             <Typography variant="h5">Pixal Commerce</Typography>
           </Box>
           <Divider />
